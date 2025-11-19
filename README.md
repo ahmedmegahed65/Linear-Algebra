@@ -1,2 +1,2 @@
 # Linear-Algebra
-This is tasks repo
+This repo is for linear-algebra projects
